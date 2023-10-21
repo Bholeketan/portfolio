@@ -13,7 +13,7 @@
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- ftd.row:
-background.solid: #1E1E1E
+background.solid: #788DAA
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
@@ -35,7 +35,7 @@ height: hug-content
 ;;-------Change the logo and add your own logo, while changing remember to change the path-------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navheader.navbar: Elias
+-- navheader.navbar: Ketan
 logo: $assets.files.images.logo.svg
 homelink: <homepage_link>
 aboutlink: <aboutpage_link>
@@ -58,7 +58,7 @@ worklink: <work_link>
 ;;----------------------------Change the Body with your Content----------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- main.body: Elias is a Web Designer and Front-End Developer
+-- main.body: Ketan can play basketball Also an AI Engineer!!
 link: https://www.candely.com/
 image: $assets.files.images.Image2.png
 label: Currently working on portfolio
